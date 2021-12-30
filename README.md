@@ -2,6 +2,7 @@
 ## if you want to know how to install minecraft mods for xbox? look no longer. I have a tutourial to help you on those needs.
 # APPS REQUIRED
 ### Internet Browser
+! [](https://raw.githubusercontent.com/twastinfg/link-here/main/apps.2760.14064125824875133.e13d6f98-c0ae-4c98-8be5-fe7bbd6d0d68.jpeg)
 ### Expansion For explorer
 # STEP 1
 ## Open Internet Browser And Search for a minecraft mod
