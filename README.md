@@ -10,7 +10,7 @@
 ![](https://raw.githubusercontent.com/twastinfg/link-here/main/SCN_20211229_235847.jpg)
 # STEP 2
 ## download the file of the mod. It can either be .zip or .mcpack or .mcaddon
-![]()
+![](https://github.com/twastinfg/link-here/blob/main/SCN_20211230_000250.jpg?raw=true)
 # EXAMPLE HERE
 ### https://www.mediafire.com/file/duq70y936z4n2bi/minecraftycarsV2.mcaddon/file
 # STEP 3 
